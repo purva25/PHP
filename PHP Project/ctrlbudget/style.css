@@ -1,0 +1,80 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 Jun, 2021, 12:54:11 PM
+    Author     : Purva
+*/
+body{
+    background-color: rgba(230,230,250,0.5);
+}
+#banner_image{
+    padding-top: 75px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: #f8f8f8;
+    background-image: url("img/bgimg.jpg");
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+}
+#left{
+    float: left;
+}
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0,0.5);
+    max-width: 660px;
+}
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+
+.success{
+    margin-top: 20%;
+    font-size: 24px;
+}
+
+.navi{
+   margin-top: 75px; 
+}
+#head{
+    background-color: white;
+}
+#headg{
+    background-color: #009B81;
+    color: white;
+}
+.bcolor{
+    background-color: white;
+    color: #009B81;
+    border: 2px solid #009B81;
+}
+.bcolor:hover{
+    background-color: #009B81;
+    color: white;
+}
+.right{
+    float: right;
+    padding-right: 10px;
+}
+.panelc{
+    margin:15px 2px 0px 2px; 
+}
+.texta{
+    margin-top: 10px;
+}
+.panel-heading{
+    font-size: 24px;
+}
+
